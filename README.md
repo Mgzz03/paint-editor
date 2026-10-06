@@ -1,4 +1,4 @@
-# CIE202 Paint Editor
+# Paint Editor
 
 A C++ graphics editor project with shape drawing, selection, transformation, file operations, undo/redo, copy/paste, fill, zoom, and play-mode operations.
 
